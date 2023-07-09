@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Suradit Saosamniang</h1>
+    <img height="200" src="Screenshot 2023-07-09 185607.png">
+    <h2>Summary</h2>
+    I want to learn more about web designing. So that the future will bring knowledge to develop in the work.
+    <hr>
+    <h2>Education</h2>
+    <ul>
+        <li>Pom Phlaeng Municipal School (2008 - 2014)</li>
+        <li>Watsongtham School (2015 - 2017)</li>
+        <li>Chetupon Commercial College(2018 - 2020)</li>
+        <li>Information of Technolgy, Rajamangala University of Technology krunthep (2021 - Present)</li>
+    </ul>
+    <hr>
+    <h2>Work Experience</h2>
+    <ul>
+        <h3>Service Officer Metropolitan Electricity Authority Rat Burana</h3>
+        <p>November 2020 - January 2021</p>
+        <li>Key information of customers who want to request electricity</li>
+        <li>Separating information of customers who come to service</li>
+        <li>Deliver customer data sheets to other relevant departments.</li>
+    </ul>
+    <hr>
+    <h2>Skills</h2>
+    <ul>
+        <li>JavaScript : ⭐️</li>
+        <li>C# : ⭐️⭐️ </li>
+        <li>HTML : ⭐️⭐️</li>
+        <li>Microft Office Suite : ⭐️⭐️⭐️</li>  
+    </ul>
+    <hr>
+    <h2>Awards and Certifications</h2>
+    <ul>
+        <li>-</li>
+    </ul>
+    <hr>
+    <h2>Other</h2>
+    <ul>
+        <li><a href="./My Hobbies">My Hobbies</a></li>
+        <li><a href="./Contact Me">Contact Me</a></li>
+    </ul>
+    <footer>@ Areeya Janpalee</footer>
+</body>
+</html>
